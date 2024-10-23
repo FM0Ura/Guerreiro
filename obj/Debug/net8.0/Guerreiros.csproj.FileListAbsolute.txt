@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\bin\Debug\net8.0\Guerreiros.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\bin\Debug\net8.0\Guerreiros.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\bin\Debug\net8.0\Guerreiros.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\bin\Debug\net8.0\Guerreiros.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\bin\Debug\net8.0\Guerreiros.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\Guerreiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\Guerreiros.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\Guerreiros.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\Guerreiros.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\Guerreiros.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\refint\Guerreiros.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\Guerreiros.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\Guerreiros.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Guerreiros\obj\Debug\net8.0\ref\Guerreiros.dll
